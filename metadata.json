@@ -1,0 +1,10 @@
+{
+  "name": "GraphMind",
+  "description": "Educational platform demonstrating how Knowledge Graphs optimize LLM performance, reduce token costs through structured reasoning, and solve multi-hop query challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Knowledge Graphs",
+    "RAG Optimization",
+    "Data Visualization"
+  ]
+}
